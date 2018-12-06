@@ -6,6 +6,7 @@
         <module>Con-Entity</module>
         <module>Con-Web</module>
         <module>Con-Test</module>
+        <module>Con-Service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
